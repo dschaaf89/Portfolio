@@ -4,10 +4,11 @@ body {
   font-size: large;
   color: rgb(23, 74, 216);
 }
-
-h1{
-  text-align: center;
+.container{text-align: center;}
+.container p{
+  text-align: left;
 }
+
 .side-nav{
   height: 100%;
   width: 250px;
