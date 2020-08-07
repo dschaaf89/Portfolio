@@ -1,7 +1,7 @@
 body {
   background-image: url("https://media.wired.com/photos/5a6f92df17132e047375eb3d/master/w_2560%2Cc_limit/StravaMilitarySecurity-565978087.jpg");
   background-size: cover;
-  color: rgb(23, 74, 216);
+  color: blue;
 }
 h1{text-align: center;}
 h2{
@@ -21,7 +21,7 @@ h3{
   position: fixed;
   top: 0;
   left: 0;
-  background-color: tan;
+  background-color: rgb(210, 180, 140,.8);
   opacity: 1;
   padding-top: 10px;
   overflow-x: hidden;
@@ -29,17 +29,18 @@ h3{
 .side-nav a {
   padding: 6px;
   font-size: 20px;
-  color:white;
+  color:blue;
   display: block;
 }
 .card{
   margin: 100px;
   padding: 10px;
-  background-color: tan;
+  background-color: rgb(210, 180, 140,.8);
   
 }
 
 .col-4 {
   padding-top: 25px;
   padding-left: 75px;
+  
   }
