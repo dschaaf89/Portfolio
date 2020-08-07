@@ -1,0 +1,10 @@
+.card-text{
+ 
+  padding:10;
+  width: 200px;
+  background-color: rgb(182, 181, 181);
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
