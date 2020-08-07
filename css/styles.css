@@ -1,13 +1,19 @@
 body {
   background-image: url("https://media.wired.com/photos/5a6f92df17132e047375eb3d/master/w_2560%2Cc_limit/StravaMilitarySecurity-565978087.jpg");
   background-size: cover;
-  font-size: large;
   color: rgb(23, 74, 216);
 }
-.container{text-align: center;}
-.container p{
+h1{text-align: center;}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+.container{
   text-align: left;
 }
+
 
 .side-nav{
   height: 100%;
