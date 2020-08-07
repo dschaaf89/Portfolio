@@ -19,7 +19,7 @@ _This is my portfolio website. it has 4 total pages ranging from my about me Spl
 * gh-pages link is https://dschaaf89.github.io/Portfolio/index.html 
 ## Known Bugs
 
-pictures collaspe on the navigation bar when window resizes. same with cards with text in them.
+no media queries are in so on smaller screens like iphones and tablets, everything collaspes on eachother.
 
 ## Support and contact details
 
