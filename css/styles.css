@@ -4,22 +4,7 @@ body {
   font-size: large;
   color: rgb(23, 74, 216);
 }
-.center{
-  display: block;
-  margin-left:auto;
-  margin-right: auto;
-  margin-top: 25px;
- 
-}
-.left{
 
-  display: block;
-  margin-left:100px;
-  margin-right: auto;
-  margin-top: 25px;
-  width: 25%;
- 
-}
 h1{
   text-align: center;
 }
@@ -44,7 +29,10 @@ h1{
   margin: 100px;
   padding: 10px;
   background-color: tan;
-  font
-  
   
 }
+
+.col-4 {
+  padding-top: 25px;
+  padding-left: 75px;
+  }
