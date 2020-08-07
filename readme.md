@@ -16,7 +16,7 @@ _This is my portfolio website. it has 4 total pages ranging from my about me Spl
 * click on navigation bar items to goto other pages.
 * click on links in projects pages to go my other repositories to clone or look at the coding. also there are projects that are published online and there are cooresponding gh-pages links that work.
 
-
+* gh-pages link is https://dschaaf89.github.io/Portfolio/index.html 
 ## Known Bugs
 
 pictures collaspe on the navigation bar when window resizes. same with cards with text in them.
